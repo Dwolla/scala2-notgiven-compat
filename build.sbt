@@ -29,6 +29,6 @@ lazy val `scala2-notgiven-compat` = crossProject(JVMPlatform, JSPlatform, Native
   .in(file("scala2NotGiven"))
   .settings(
     libraryDependencies ++= Seq(
-      "org.scala-lang.modules" %% "scala-collection-compat" % "2.13.0",
+      "org.scala-lang.modules" %% "scala-collection-compat" % "2.14.0",
     ),
   )
