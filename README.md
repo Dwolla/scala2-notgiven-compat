@@ -1,3 +1,5 @@
+‼️ This project has been migrated into the [Typelevel scalac-compat](https://github.com/typelevel/scalac-compat#scala-2-notgiven-compatibility-shim) project and is no longer maintained here. ‼️
+
 # Scala 2 `NotGiven` Compatibility Shim
 
 Scala 3 introduced `scala.util.NotGiven`: a special class used to implement negation in implicit search.
